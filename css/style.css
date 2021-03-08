@@ -33,7 +33,3 @@ th {
   background-color: rgb(224, 47, 76);
   color: white;
 }
- .flex{
-  display: flex;
-  flex-direction: column;
-} 
